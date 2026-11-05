@@ -1,0 +1,10 @@
+{
+  "name": "Marketing Planner AI",
+  "short_name": "Marketing Planner",
+  "description": "Perencana marketing pribadi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#101a2d",
+  "icons": []
+}
